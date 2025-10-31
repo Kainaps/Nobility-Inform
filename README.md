@@ -15,16 +15,6 @@ Links rápidos para facilitar a navegação dentro da planilha
 
 Interface amigável, organizada e totalmente funcional
 
-## Objetivos de Aprendizagem
-
-Durante o desenvolvimento do projeto Nobility Inform, foi possível:
-
-Aplicar conceitos aprendidos em um ambiente prático e real
-
-Documentar processos técnicos de forma clara e estruturada
-
-Utilizar o GitHub como ferramenta de versionamento e compartilhamento de documentação técnica
-
 ## Tecnologias e Ferramentas
 
 Microsoft Excel (validações, menus, fórmulas e automações)
